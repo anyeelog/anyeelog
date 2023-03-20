@@ -1,6 +1,8 @@
-Hi, I’m @doragonized
+Hi, I’m @doragonized (Angie) and I am a recent graduate from Le Wagon coding bootcamp. I am passionate about coding and love to create innovative solutions to solve real-world problems. I have experience working on various projects using different programming languages such as Ruby, Ruby on Rails, HTML, CSS, Javascript and SQL. 
 
-I'm a Graphic Design Student who has taken an interest in Coding. I'm currently trying to learn Web Developing languages like HTML / CSS / JS. Already have some knowledge about HTML and CSS, and the basics of JS... Just need to put them in practice! :-)
+In addition to coding, I am also a graphic designer. I believe in continuous learning and always strive to improve my skills.
+
+In my free time, I enjoy gardening and taking care of my pets.
 
 
 - 📫 How to reach me ... doragonized@gmail.com
