@@ -1,10 +1,11 @@
 <h2>Hi, I’m Angie 🙋🏻‍♀️</h2>
 
+<ul>
 💻 Passionate about coding
 🎨 Graphic designer
 📝 I believe in continuous learning
 💪🏻 Always strive to improve my skills
-
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 
