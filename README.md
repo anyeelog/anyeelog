@@ -1,6 +1,9 @@
-<h1>Hi, I’m Angie 🙋🏻‍♀️</h1>
+<h2>Hi, I’m Angie 🙋🏻‍♀️</h2>
 
-I am passionate about coding. In addition to that, I am also a graphic designer. I believe in continuous learning and always strive to improve my skills.
+💻 Passionate about coding
+🎨 Graphic designer
+📝 I believe in continuous learning
+💪🏻 Always strive to improve my skills
 
 
 <h3 align="left">Languages and Tools:</h3>
