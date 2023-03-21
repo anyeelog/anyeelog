@@ -1,9 +1,6 @@
-Hi, I’m Angie and I am a recent graduate from Le Wagon coding bootcamp. 
+<h1>Hi, I’m Angie 🙋🏻‍♀️</h1>
 
 I am passionate about coding. In addition to that, I am also a graphic designer. I believe in continuous learning and always strive to improve my skills.
-
-
-- 📫 How to reach me ... doragonized@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
