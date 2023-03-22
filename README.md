@@ -2,7 +2,7 @@
 
 
 <p>💻 Passionate about coding</p>
-<p>🎨 Graphic designer</p>
+<p>🎨 Also about graphic design</p>
 <p>📝 I believe in continuous learning</p>
 <p>💪🏻 Always strive to improve my skills</p>
 
