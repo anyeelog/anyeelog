@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/linkedin-ff69b4?style=for-the-badge&logo=linkedin">
 </a>
 
-<a align="right" href="mailto:anyeelogs@gmail.com">
+<a align="right" href="mailto:anyee.logs@gmail.com">
   <img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge">
 </a>
 
