@@ -8,13 +8,13 @@
 
 <h3>👩🏻‍💻 About me</h3>
 
-<strong>I'm a Frontend Developer based in Barcelona who's...</strong>
+<strong>I'm a Frontend Developer based in Barcelona who is...</strong>
 
 <ul>
   <li>💻 Passionate about coding</li>
   <li>🎨 Also about graphic design</li>
-  <li>📝 I believe in continuous learning</li>
-  <li>💪🏻 Always strive to improve my skills</li>
+  <li>📝 Believes in continuous learning</li>
+  <li>💪🏻 Always strivig to improve her skills</li>
 </ul>
 
 <br>
