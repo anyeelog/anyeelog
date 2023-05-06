@@ -14,7 +14,7 @@
   <li>💻 Passionate about coding</li>
   <li>🎨 Also about graphic design</li>
   <li>📝 Believes in continuous learning</li>
-  <li>💪🏻 Always strivig to improve her skills</li>
+  <li>💪🏻 Always striving to improve her skills</li>
 </ul>
 
 <br>
