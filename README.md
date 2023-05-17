@@ -40,5 +40,4 @@
 
 <hr></hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anyeelog&theme=default)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyeelog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
