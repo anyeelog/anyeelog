@@ -8,7 +8,7 @@
 
 <h3>👩🏻‍💻 About me</h3>
 
-<strong>I'm a Frontend Developer based in Barcelona who is...</strong>
+<strong>I'm a Fullstack Developer based in Barcelona who is...</strong>
 
 <ul>
   <li>💻 Passionate about coding</li>
